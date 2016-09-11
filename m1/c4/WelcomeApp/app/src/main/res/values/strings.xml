@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Welcome App</string>
+
+    <string name="hint_name">Nombre completo.</string>
+    <string name="welcome_text">¡Hola! Ingresa tu nombre.</string>
+    <string name="button_show_welcome">Mostrar bienvenida</string>
+    <string name="welcome_message">¡Bienvenido %s!</string>
+</resources>
