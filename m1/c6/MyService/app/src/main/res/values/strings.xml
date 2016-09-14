@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Service</string>
+
+    <string name="instructions">Hola, utiliza los botones para iniciar o detener el servicio.</string>
+    <string name="start_service">Iniciar servicio</string>
+    <string name="stop_service">Detener servicio</string>
+</resources>
