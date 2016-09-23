@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         return new RepetitiveTask(new Runnable() {
             @Override
             public void run() {
-                final long elapsedTime = (SystemClock.uptimeMillis() - startTime) / 1000;
+                final long elapsedTime = (SystemClock.elapsedRealtime() - startTime) / 1000;
                 updateTextViewStatus(String.valueOf(elapsedTime));
             }
         }, REPETITIVE_TASK_DELAY_IN_MILLIS);
