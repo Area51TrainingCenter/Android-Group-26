@@ -4,3 +4,4 @@ Ejemplos extras:
 - AsyncTaskHandler: Clase similar a AsyncTask usando Handlers.
 - TimeCounter: Contador de tiempo utilizando Handlers para actualizar la pantalla.
 - MultiFragment: Ejemplo de cómo distribuir dinámicamente 2 fragments tanto en modo "landscape" como "portrait".
+- SharedPreferences: Almacenamiento y recuperación de datos con el API "SharedPreferences" (base de datos clave-valor).
