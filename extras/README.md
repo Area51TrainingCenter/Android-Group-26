@@ -5,3 +5,4 @@ Ejemplos extras:
 - TimeCounter: Contador de tiempo utilizando Handlers para actualizar la pantalla.
 - MultiFragment: Ejemplo de cómo distribuir dinámicamente 2 fragments tanto en modo "landscape" como "portrait".
 - SharedPreferences: Almacenamiento y recuperación de datos con el API "SharedPreferences" (base de datos clave-valor).
+- ParcelableTest: Implementación de la interfaz "Parcelable" para serialización/deserialización de datos (mecanismo estándar de Android).

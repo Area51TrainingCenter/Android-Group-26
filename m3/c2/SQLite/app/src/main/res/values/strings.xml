@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Master - Detail</string>
+
+    <string name="add_note">Agregar nota</string>
+</resources>
