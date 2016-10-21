@@ -6,3 +6,4 @@ Ejemplos extras:
 - MultiFragment: Ejemplo de cómo distribuir dinámicamente 2 fragments tanto en modo "landscape" como "portrait".
 - SharedPreferences: Almacenamiento y recuperación de datos con el API "SharedPreferences" (base de datos clave-valor).
 - ParcelableTest: Implementación de la interfaz "Parcelable" para serialización/deserialización de datos (mecanismo estándar de Android).
+- AudioProject: Grabación y almacenamiento de audio.

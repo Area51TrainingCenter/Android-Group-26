@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AudioProject</string>
+
+    <string name="recording">Grabando&#8230;</string>
+    <string name="stopped">Detenido</string>
+    <string name="stop">Detener grabación</string>
+    <string name="record">Grabar</string>
+</resources>
