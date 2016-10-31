@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reverse Geocoder</string>
+
+    <string name="get_address">Obtener dirección</string>
+    <string name="server_response_error">El servidor ha devuelto una respuesta inválida.</string>
+    <string name="connection_error">Ha ocurrido un error en la conexión.</string>
+    <string name="error">Ha ocurrido un error.</string>
+    <string name="no_location">Espera a que se obtenga tu ubicación.</string>
+</resources>
